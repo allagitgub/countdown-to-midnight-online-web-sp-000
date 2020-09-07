@@ -1,6 +1,5 @@
 #write your code he
-def countdown
-  number = 6
+def countdown(number)
   while number > 0
     puts "#{number} SECOND(S)!"
     number -= 1
